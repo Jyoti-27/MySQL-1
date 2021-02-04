@@ -1,0 +1,171 @@
+http://www.db-fiddle.com
+
+
+create table employee1( eno int not null,
+ename varchar(20),age int,occupation varchar(20),
+PRIMARY KEY(eno));
+
+describe employee1;
+
+insert into employee1 values(1,'jyoti',35,'Assistant Professor');
+
+
+
+
+
+create database demo;
+use demo;
+create table students(studno int,studname varchar(25),class int,grade char(20));
+insert into students values(1,'Rucha',5,'A');
+select * from students;
+
+
+
+
+
+insert into employee1 values(1,'jyoti',35,'Assistant Professor');
+select * from employee1;
+            
+create database demo;
+use demo;
+create table students(studno int,studname varchar(25),class int,grade char(20));
+                                                                                       
+describe students;
+insert into students values(1,'Rucha',5,'A');
+insert into students values(2,'Sanchi',9,'B');
+insert into students values(3,'Sara',7,'C');
+select * from students;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select * from emp;
+
+?
+
+create table employee1( eno int not null,
+
+ename varchar(20),age int,occupation varchar(20),
+
+PRIMARY KEY(eno));
+
+            
+
+describe employee1;
+
+            
+
+insert into employee1 values(1,'jyoti',35,'Assistant Professor');
+
+select * from employee1;
+
+            
+
+create database demo;
+
+use demo;
+
+create table students(studno int,studname varchar(25),class int,grade char(20));
+
+                                                                                       
+
+describe students;
+
+insert into students values(1,'Rucha',5,'A');
+
+insert into students values(2,'Sanchi',9,'B');
+
+insert into students values(3,'Sara',7,'C');
+select * from students;
+
+
+
+
+
+
+
+
+
+
+                    
